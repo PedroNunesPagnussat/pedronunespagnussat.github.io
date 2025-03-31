@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pedro Nunes Pagnussat</title>
-    <link>https://pedronp.github.io/categories/</link>
+    <link>https://pedronunespagnussat.github.io/categories/</link>
     <description>Recent content in Categories on Pedro Nunes Pagnussat</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Mar 2023 10:30:00 +0530</lastBuildDate>
-    <atom:link href="https://pedronp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pedronunespagnussat.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorials</title>
-      <link>https://pedronp.github.io/categories/tutorials/</link>
+      <link>https://pedronunespagnussat.github.io/categories/tutorials/</link>
       <pubDate>Wed, 15 Mar 2023 10:30:00 +0530</pubDate>
-      <guid>https://pedronp.github.io/categories/tutorials/</guid>
+      <guid>https://pedronunespagnussat.github.io/categories/tutorials/</guid>
       <description></description>
     </item>
   </channel>
