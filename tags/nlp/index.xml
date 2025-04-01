@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Pedro Nunes Pagnussat</title>
+    <link>//localhost:1313/tags/nlp/</link>
+    <description>Recent content in NLP on Pedro Nunes Pagnussat</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2024 09:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Transformer Architecture: A Deep Dive</title>
+      <link>//localhost:1313/blogs/understanding-transformers/</link>
+      <pubDate>Wed, 20 Mar 2024 09:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blogs/understanding-transformers/</guid>
+      <description>&lt;p&gt;The transformer architecture has revolutionized natural language processing and become the foundation for models like GPT and BERT. In this post, let&amp;rsquo;s break down how transformers work and why they&amp;rsquo;re so effective.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-core-components&#34;&gt;The Core Components&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-self-attention-mechanism&#34;&gt;1. Self-Attention Mechanism&lt;/h3&gt;&#xA;&lt;p&gt;The key innovation in transformers is the self-attention mechanism. Unlike traditional RNNs that process tokens sequentially, self-attention allows the model to consider all tokens simultaneously and weigh their importance for each prediction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CodeMentor AI: Intelligent Programming Assistant</title>
+      <link>//localhost:1313/projects/code-mentor-ai/</link>
+      <pubDate>Sun, 10 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/code-mentor-ai/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;&#xA;&lt;p&gt;CodeMentor AI is an intelligent programming assistant that combines state-of-the-art language models with educational principles to provide personalized coding guidance. It analyzes code, suggests improvements, and helps developers understand best practices through interactive learning.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-intelligent-code-analysis&#34;&gt;1. Intelligent Code Analysis&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time code quality assessment&lt;/li&gt;&#xA;&lt;li&gt;Pattern recognition for anti-patterns&lt;/li&gt;&#xA;&lt;li&gt;Performance optimization suggestions&lt;/li&gt;&#xA;&lt;li&gt;Security vulnerability detection&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-personalized-learning-path&#34;&gt;2. Personalized Learning Path&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Skill level assessment&lt;/li&gt;&#xA;&lt;li&gt;Custom exercise generation&lt;/li&gt;&#xA;&lt;li&gt;Progress tracking&lt;/li&gt;&#xA;&lt;li&gt;Adaptive difficulty scaling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-interactive-code-reviews&#34;&gt;3. Interactive Code Reviews&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Detailed explanation of suggestions&lt;/li&gt;&#xA;&lt;li&gt;Best practice recommendations&lt;/li&gt;&#xA;&lt;li&gt;Alternative solution proposals&lt;/li&gt;&#xA;&lt;li&gt;Performance impact analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technical-implementation&#34;&gt;Technical Implementation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;architecture&#34;&gt;Architecture&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fine-tuned CodeBERT model for code analysis&lt;/li&gt;&#xA;&lt;li&gt;React-based interactive UI&lt;/li&gt;&#xA;&lt;li&gt;Node.js backend with GraphQL&lt;/li&gt;&#xA;&lt;li&gt;MongoDB for user progress tracking&lt;/li&gt;&#xA;&lt;li&gt;Docker containerization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;ai-components&#34;&gt;AI Components&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Custom transformer model for code understanding&lt;/li&gt;&#xA;&lt;li&gt;Reinforcement learning for exercise generation&lt;/li&gt;&#xA;&lt;li&gt;Natural language processing for explanations&lt;/li&gt;&#xA;&lt;li&gt;Embeddings for similar code pattern matching&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;impact-and-results&#34;&gt;Impact and Results&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Used by 10,000+ developers&lt;/li&gt;&#xA;&lt;li&gt;Average 40% improvement in code quality&lt;/li&gt;&#xA;&lt;li&gt;92% user satisfaction rate&lt;/li&gt;&#xA;&lt;li&gt;Featured in multiple tech conferences&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;future-development&#34;&gt;Future Development&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Support for more programming languages&lt;/li&gt;&#xA;&lt;li&gt;Real-time pair programming assistance&lt;/li&gt;&#xA;&lt;li&gt;Integration with popular IDEs&lt;/li&gt;&#xA;&lt;li&gt;Community-driven content creation&lt;/li&gt;&#xA;&lt;li&gt;Advanced code generation features&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

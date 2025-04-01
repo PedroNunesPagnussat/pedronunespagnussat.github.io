@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local Models on Pedro Nunes Pagnussat</title>
+    <link>//localhost:1313/tags/local-models/</link>
+    <description>Recent content in Local Models on Pedro Nunes Pagnussat</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/local-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Local LLMs with Ollama</title>
+      <link>//localhost:1313/blogs/local_llm_with_ollama/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blogs/local_llm_with_ollama/</guid>
+      <description>&lt;p&gt;Running local LLMs with Ollama is an exciting way to bring powerful AI models directly on your hardware, enhancing privacy, network dependancy, and reducing development costs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-run-local-llms&#34;&gt;Why Run Local LLMs?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Privacy:&lt;/strong&gt; Your data stays entirely on your local machine, crucial for sensitive information.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Speed and Availability:&lt;/strong&gt; No network latency or Availability problems&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pricing:&lt;/strong&gt; No API call cost since you are running it own your own machine&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;getting-started-with-ollama&#34;&gt;Getting Started with Ollama&lt;/h2&gt;&#xA;&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;MacOS and Linux:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

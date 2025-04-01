@@ -6,20 +6,27 @@
     <description>Recent content in Tags on Pedro Nunes Pagnussat</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 10:30:00 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pedronunespagnussat.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
-      <link>https://pedronunespagnussat.github.io/tags/hugo/</link>
-      <pubDate>Wed, 15 Mar 2023 10:30:00 +0530</pubDate>
-      <guid>https://pedronunespagnussat.github.io/tags/hugo/</guid>
+      <title>AI</title>
+      <link>https://pedronunespagnussat.github.io/tags/ai/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://pedronunespagnussat.github.io/tags/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>Web Development</title>
-      <link>https://pedronunespagnussat.github.io/tags/web-development/</link>
-      <pubDate>Wed, 15 Mar 2023 10:30:00 +0530</pubDate>
-      <guid>https://pedronunespagnussat.github.io/tags/web-development/</guid>
+      <title>Chat Bot</title>
+      <link>https://pedronunespagnussat.github.io/tags/chat-bot/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://pedronunespagnussat.github.io/tags/chat-bot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://pedronunespagnussat.github.io/tags/llm/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://pedronunespagnussat.github.io/tags/llm/</guid>
       <description></description>
     </item>
   </channel>

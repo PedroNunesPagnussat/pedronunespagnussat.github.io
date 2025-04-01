@@ -2,37 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pedronunespagnussat.github.io/categories/</loc>
-    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <loc>https://pedronunespagnussat.github.io/tags/ai/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pedronunespagnussat.github.io/tags/hugo/</loc>
-    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <loc>https://pedronunespagnussat.github.io/tags/chat-bot/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pedronunespagnussat.github.io/posts/test/</loc>
-    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <loc>https://pedronunespagnussat.github.io/blogs/local_llm_with_ollama/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pedronunespagnussat.github.io/tags/llm/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pedronunespagnussat.github.io/</loc>
-    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
-  </url><url>
-    <loc>https://pedronunespagnussat.github.io/posts/</loc>
-    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pedronunespagnussat.github.io/tags/</loc>
-    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
-  </url><url>
-    <loc>https://pedronunespagnussat.github.io/categories/tutorials/</loc>
-    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
-  </url><url>
-    <loc>https://pedronunespagnussat.github.io/tags/web-development/</loc>
-    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pedronunespagnussat.github.io/about/</loc>
   </url><url>
     <loc>https://pedronunespagnussat.github.io/blogs/</loc>
   </url><url>
-    <loc>https://pedronunespagnussat.github.io/experience/</loc>
+    <loc>https://pedronunespagnussat.github.io/categories/</loc>
   </url><url>
     <loc>https://pedronunespagnussat.github.io/contact/</loc>
+  </url><url>
+    <loc>https://pedronunespagnussat.github.io/experience/</loc>
   </url><url>
     <loc>https://pedronunespagnussat.github.io/projects/</loc>
   </url>

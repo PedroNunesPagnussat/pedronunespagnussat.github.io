@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberry Pi on Pedro Nunes Pagnussat</title>
+    <link>//localhost:1313/tags/raspberry-pi/</link>
+    <description>Recent content in Raspberry Pi on Pedro Nunes Pagnussat</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Feb 2024 09:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SmartHome AI: Intelligent Home Automation System</title>
+      <link>//localhost:1313/projects/smart-home-automation/</link>
+      <pubDate>Thu, 15 Feb 2024 09:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/smart-home-automation/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;&#xA;&lt;p&gt;SmartHome AI is an intelligent home automation system that combines IoT sensors, machine learning, and real-time data processing to create a truly smart living environment. The system learns from user behavior patterns and automatically adjusts home settings for optimal comfort and energy efficiency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-intelligent-temperature-control&#34;&gt;1. Intelligent Temperature Control&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Learns user temperature preferences throughout the day&lt;/li&gt;&#xA;&lt;li&gt;Predicts optimal settings based on weather forecasts&lt;/li&gt;&#xA;&lt;li&gt;Reduces energy consumption by up to 30%&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-smart-lighting-system&#34;&gt;2. Smart Lighting System&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automatic brightness adjustment based on natural light&lt;/li&gt;&#xA;&lt;li&gt;Motion-based activation in low-traffic areas&lt;/li&gt;&#xA;&lt;li&gt;Color temperature optimization for time of day&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-energy-usage-analytics&#34;&gt;3. Energy Usage Analytics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time power consumption monitoring&lt;/li&gt;&#xA;&lt;li&gt;Anomaly detection for unusual usage patterns&lt;/li&gt;&#xA;&lt;li&gt;Monthly efficiency reports and recommendations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technical-implementation&#34;&gt;Technical Implementation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;architecture&#34;&gt;Architecture&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Distributed sensor network using MQTT protocol&lt;/li&gt;&#xA;&lt;li&gt;Centralized FastAPI backend for data processing&lt;/li&gt;&#xA;&lt;li&gt;TensorFlow-based ML models for prediction&lt;/li&gt;&#xA;&lt;li&gt;Docker containers for easy deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;machine-learning-models&#34;&gt;Machine Learning Models&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;LSTM networks for temperature prediction&lt;/li&gt;&#xA;&lt;li&gt;Random Forest for anomaly detection&lt;/li&gt;&#xA;&lt;li&gt;Reinforcement learning for optimization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;impact-and-results&#34;&gt;Impact and Results&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;30% reduction in energy consumption&lt;/li&gt;&#xA;&lt;li&gt;85% user satisfaction rate&lt;/li&gt;&#xA;&lt;li&gt;Successfully deployed in 50+ homes&lt;/li&gt;&#xA;&lt;li&gt;Featured in Smart Home Magazine&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;future-development&#34;&gt;Future Development&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Integration with more IoT devices&lt;/li&gt;&#xA;&lt;li&gt;Enhanced prediction models&lt;/li&gt;&#xA;&lt;li&gt;Mobile app development&lt;/li&gt;&#xA;&lt;li&gt;Community feature sharing&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

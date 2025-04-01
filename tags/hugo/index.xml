@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Pedro Nunes Pagnussat</title>
-    <link>https://pedronunespagnussat.github.io/tags/hugo/</link>
+    <link>//localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on Pedro Nunes Pagnussat</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Mar 2023 10:30:00 +0530</lastBuildDate>
-    <atom:link href="https://pedronunespagnussat.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://pedronunespagnussat.github.io/posts/test/</link>
+      <link>//localhost:1313/blogs/test/</link>
       <pubDate>Wed, 15 Mar 2023 10:30:00 +0530</pubDate>
-      <guid>https://pedronunespagnussat.github.io/posts/test/</guid>
+      <guid>//localhost:1313/blogs/test/</guid>
       <description>&lt;p&gt;test&lt;/p&gt;</description>
     </item>
   </channel>
