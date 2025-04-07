@@ -2,36 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>https://pedronunespagnussat.github.io/tags/ai/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chat-bot/</loc>
+    <loc>https://pedronunespagnussat.github.io/tags/chat-bot/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/local_llm_with_ollama/</loc>
+    <loc>https://pedronunespagnussat.github.io/blogs/local_llm_with_ollama/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/llm/</loc>
+    <loc>https://pedronunespagnussat.github.io/tags/llm/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://pedronunespagnussat.github.io/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://pedronunespagnussat.github.io/tags/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/temp/</loc>
+    <loc>https://pedronunespagnussat.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://pedronunespagnussat.github.io/blogs/</loc>
   </url><url>
-    <loc>http://localhost:1313/blogs/</loc>
+    <loc>https://pedronunespagnussat.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://pedronunespagnussat.github.io/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://pedronunespagnussat.github.io/experience/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://pedronunespagnussat.github.io/projects/</loc>
   </url>
 </urlset>
